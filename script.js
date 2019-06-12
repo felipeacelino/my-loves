@@ -25,6 +25,7 @@
 				heart.className = 'heart-container heart-animate-slow';
 				break;
 			case 'felipe':
+			case 'gabriel':
 				Array.prototype.forEach.call(parts, function (part) {				
 					part.style.WebkitTransition = 'background 0.5s';
 					part.style.MozTransition = 'background 0.5s';
